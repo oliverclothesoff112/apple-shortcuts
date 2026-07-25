@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Monk Mode is an Apple Shortcut designed to make my phone less distracting during the working day.
+Monk Mode is small automaation system made up of three Apple Shortcuts that work together to make my phone less distracting during the working day.
 
 The goal wasn't to stop me using my phone completely. It was to make intentional use the primary function, and lessen the cahnces of mindless scrolling.
 
