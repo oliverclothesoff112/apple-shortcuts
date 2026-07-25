@@ -21,7 +21,7 @@ This repository contains shortcuts I've built to save time, automate repetitive 
 
 ---
 
-## 📱 Requirements
+## Requirements
 
 - Apple Shortcuts
 - iPhone, iPad or Mac
